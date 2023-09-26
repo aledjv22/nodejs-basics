@@ -21,4 +21,7 @@
 .history
 .ionide
 
+# node
+packages/npm/node_modules
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode

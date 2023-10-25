@@ -23,5 +23,6 @@
 
 # node
 */*/node_modules
+*/*/package-lock.json
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
